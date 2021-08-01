@@ -1,7 +1,9 @@
 # Hack-For-Fun
-### مجموعه ویروس های باحال برای اذیت و آزار رفقا :)  
+### A collection of computer viruses to bother your friends :)
 
-![img](https://github.com/saber-khakbiz/Hack-For-Fun/blob/main/img/img/HTB-Hack-the-box.png)
+![GitHub](https://img.shields.io/github/license/saber-khakbiz/Hack-For-Fun?style=flat-square)
+
+[img](https://github.com/saber-khakbiz/Hack-For-Fun/blob/main/img/img/HTB-Hack-the-box.png)
 
 
 ## Table of Content
