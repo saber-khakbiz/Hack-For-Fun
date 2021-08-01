@@ -12,10 +12,15 @@
 
 ## Table of Content
 * [Fork Bomb 1](#fork-bomb-tiny)
-
+* [Useless CD-Rom](#useless-cd-rom)
 
 
 ## Fork Bomb 1
 
 Rename `fork1.txt` file --> `fork1.bat` then
 Double click & CPU Boooooooooooooooooooomb!
+
+## Useless CD-Rom
+
+Rename `useless_CdRom.txt` file --> `useless_CdRom.vbs` then
+Double click & CD-Rom disc tray Ejects frequently!
