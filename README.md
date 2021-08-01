@@ -10,8 +10,8 @@
 
 
 ## Fork Bomb 1
-'''
+```
 Rename `fork1.txt file` -> `fork1.bat` then
 Double click CPU Booooooooooooooomb!
 
-'''
+```
