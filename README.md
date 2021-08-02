@@ -15,7 +15,7 @@
 ## Table of Content
 * [Fork Bomb 1](#fork-bomb-tiny)
 * [Useless CD-Rom](#useless-cd-rom)
-
+* [Caps Lock Virus](#capslack-virus)
 
 ## Fork Bomb 1
 
@@ -26,3 +26,8 @@ Double click & CPU Boooooooooooooooooooomb!
 
 Rename `useless_CdRom.txt` file --> `useless_CdRom.vbs` then
 Double click & CD-Rom disc tray Ejects frequently!
+
+## Caps Lock Virus
+
+Rename `CapsLack_V.txt` file --> `CapsLack_V.vbs` then
+Double click & caps lock light will blink every 200 [ms]!
