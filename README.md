@@ -16,18 +16,37 @@
 * [Fork Bomb 1](#fork-bomb-tiny)
 * [Useless CD-Rom](#useless-cd-rom)
 * [Caps Lock Virus](#capslack-virus)
+* [Magic Box](#magic-box)
 
+
+# Instructions:
+--------------------------------------------------
 ## Fork Bomb 1
 
 Rename `fork1.txt` file --> `fork1.bat` then
 Double click & CPU Boooooooooooooooooooomb!
 
+
+**************************************************
+
 ## Useless CD-Rom
 
-Rename `useless_CdRom.txt` file --> `useless_CdRom.vbs` then
+##### Rename `useless_CdRom.txt` file --> `useless_CdRom.vbs` then
 Double click & CD-Rom disc tray Ejects frequently!
+
+*************************************************
 
 ## Caps Lock Virus
 
 Rename `CapsLack_V.txt` file --> `CapsLack_V.vbs` then
 Double click & caps lock light will blink every 200 [ms]!
+
+*************************************************
+
+## Magic Box
+
+Rename `Magic-Box.txt` file --> `Magic-Box.vbs` then
+Double click &  message box will continue to run a Message Box after
+you close the Message Box!
+
+*************************************************

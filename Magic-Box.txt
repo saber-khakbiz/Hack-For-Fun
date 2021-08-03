@@ -1,0 +1,3 @@
+do
+msgbox("haaaaah, you have been hacked by General Saber")
+loop
