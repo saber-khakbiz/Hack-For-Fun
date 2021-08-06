@@ -1,7 +1,6 @@
 # Hack-For-Fun
 ### A collection of computer viruses to bother your friends :)
 
-:warning:`Warning: This is just for fun purpose don’t try this on our own computer!`
 
 ![GitHub](https://img.shields.io/github/license/saber-khakbiz/Hack-For-Fun?style=flat-square)
 ![Ansible Quality Score](https://img.shields.io/ansible/quality/432)
@@ -22,7 +21,16 @@
 * [OS Hacker](#os-hacker)
 
 
+:construction:
+
+:warning:`Warning: This is just for fun purpose don’t try this on our own computer!`
+
+:construction:
+
+
+
 # Instructions:
+
 --------------------------------------------------
 ## Fork Bomb 1
 
