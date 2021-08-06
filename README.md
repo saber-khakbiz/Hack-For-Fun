@@ -29,11 +29,7 @@
 * [Magic Box](#magic-box)
 * [OS Hacker](#os-hacker)
 
-
-
-
-
-
+:computer:
 # Instructions:
 
 --------------------------------------------------
