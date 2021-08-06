@@ -1,6 +1,8 @@
 # Hack-For-Fun
 ### A collection of computer viruses to bother your friends :)
 
+:warning:`Warning: This is just for fun purpose don’t try this on our own computer!`
+
 ![GitHub](https://img.shields.io/github/license/saber-khakbiz/Hack-For-Fun?style=flat-square)
 ![Ansible Quality Score](https://img.shields.io/ansible/quality/432)
 ![SymfonyInsight Stars](https://img.shields.io/symfony/i/stars/825be328-29f8-44f7-a750-f82818ae9111)
@@ -17,6 +19,7 @@
 * [Useless CD-Rom](#useless-cd-rom)
 * [Caps Lock Virus](#capslack-virus)
 * [Magic Box](#magic-box)
+* [OS Hacker](#os-hacker)
 
 
 # Instructions:
@@ -48,5 +51,13 @@ Double click & caps lock light will blink every 200 [ms]!
 Rename `Magic-Box.txt` file --> `Magic-Box.vbs` then
 Double click &  message box will continue to run a Message Box after
 you close the Message Box!
+
+*************************************************
+
+## OS Hacker
+
+Rename `Os-hacker.txt` file --> `Os-hacker.bat` then
+Double click & it will format C disk drive and hence resulting
+in deleting the O.S. You can also replace C with any drive of your choice.
 
 *************************************************
