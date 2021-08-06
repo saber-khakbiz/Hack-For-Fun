@@ -29,11 +29,11 @@
 * [Magic Box](#magic-box)
 * [OS Hacker](#os-hacker)
 
-:computer:
-# Instructions:
+
+# :computer: Instructions:
 
 --------------------------------------------------
-## Fork Bomb 1
+## :rocket: Fork Bomb 1
 
 Rename `fork1.txt` file --> `fork1.bat` then
 Double click & CPU Boooooooooooooooooooomb!
@@ -41,21 +41,21 @@ Double click & CPU Boooooooooooooooooooomb!
 
 **************************************************
 
-## Useless CD-Rom
+## :dvd: Useless CD-Rom
 
 ##### Rename `useless_CdRom.txt` file --> `useless_CdRom.vbs` then
 Double click & CD-Rom disc tray Ejects frequently!
 
 *************************************************
 
-## Caps Lock Virus
+## :bulb: Caps Lock Virus
 
 Rename `CapsLack_V.txt` file --> `CapsLack_V.vbs` then
 Double click & caps lock light will blink every 200 [ms]!
 
 *************************************************
 
-## Magic Box
+## :loop: Magic Box
 
 Rename `Magic-Box.txt` file --> `Magic-Box.vbs` then
 Double click &  message box will continue to run a Message Box after
@@ -63,7 +63,7 @@ you close the Message Box!
 
 *************************************************
 
-## OS Hacker
+## :floppy_disk: OS Hacker
 
 Rename `Os-hacker.txt` file --> `Os-hacker.bat` then
 Double click & it will format C disk drive and hence resulting
