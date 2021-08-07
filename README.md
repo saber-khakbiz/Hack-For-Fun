@@ -23,11 +23,11 @@
 
 
 ## Table of Content
-* [Fork Bomb 1](#fork-bomb-tiny)
-* [Useless CD-Rom](#useless-cd-rom)
-* [Caps Lock Virus](#capslack-virus)
-* [Magic Box](#magic-box)
-* [OS Hacker](#os-hacker)
+* [:rocket: Fork Bomb 1](#fork-bomb-tiny)
+* [:dvd: Useless CD-Rom](#useless-cd-rom)
+* [:bulb: Caps Lock Virus](#capslack-virus)
+* [:loop: Magic Box](#magic-box)
+* [:floppy_disk: OS Hacker](#os-hacker)
 
 
 # :computer: Instructions:
