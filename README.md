@@ -28,7 +28,7 @@
 * :bulb:[Caps Lock Virus](#capslack-virus)
 * :loop:[Magic Box](#magic-box)
 * :floppy_disk:[OS Hacker](#os-hacker)
-* :screen:[Rotate Screen](#rotate-screen)
+* :heavy_check_mark:[Rotate Screen](#rotate-screen)
 
 # :computer: Instructions:
 
@@ -71,9 +71,9 @@ Double click & it will format C disk drive and hence resulting
 in deleting the O.S. You can also replace C with any drive of your choice.
 
 *************************************************
-:screen:
+:heavy_check_mark:
 ##  Rotate Screen
 
-Run `pip install rotate-screen ` and run `RotateScreen.py` then
+`pip install rotate-screen ` and run `RotateScreen.py` then
 
 *************************************************
