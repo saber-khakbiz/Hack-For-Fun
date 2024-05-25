@@ -28,7 +28,7 @@
 * :bulb:[Caps Lock Virus](#capslack-virus)
 * :loop:[Magic Box](#magic-box)
 * :floppy_disk:[OS Hacker](#os-hacker)
-
+* :screen:[Rotate Screen](#rotate-screen)
 
 # :computer: Instructions:
 
@@ -69,5 +69,11 @@ you close the Message Box!
 Rename `Os-hacker.txt` file --> `Os-hacker.bat` then
 Double click & it will format C disk drive and hence resulting
 in deleting the O.S. You can also replace C with any drive of your choice.
+
+*************************************************
+:screen:
+##  Rotate Screen
+
+Run `pip install rotate-screen ` and run `RotateScreen.py` then
 
 *************************************************
