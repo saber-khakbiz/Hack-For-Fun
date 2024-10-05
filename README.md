@@ -73,7 +73,7 @@ in deleting the O.S. You can also replace C with any drive of your choice.
 *************************************************
 :heavy_check_mark:
 ##  Rotate Screen
-
+`This is only tested on windows 10, 8`
 `pip install rotate-screen ` and run `RotateScreen.py` then
 
 *************************************************
